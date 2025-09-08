@@ -23,3 +23,6 @@
 This also serves as the image inclusion for this submission.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+# Honor Pledge
+"I pledge my honor that I have abided by the Stevens Honor System." - Ryan Manley
